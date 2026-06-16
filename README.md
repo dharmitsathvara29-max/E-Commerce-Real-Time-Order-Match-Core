@@ -202,7 +202,11 @@ Sample Workflow
 8. Rollback tax if needed.
 9. View updated inventory.
 
----
+How it Starts by adding the data
+<img width="283" height="716" alt="Screenshot 2026-06-17 at 12 11 55 AM" src="https://github.com/user-attachments/assets/fe3b2bca-8aa1-46c2-bf8e-ffc1d8058260" />
+And after adding all the data by our choice the main output
+<img width="423" height="182" alt="Screenshot 2026-06-17 at 12 12 31 AM" src="https://github.com/user-attachments/assets/6068c6dc-d9cb-4d26-bd4e-cbb50e0ed44d" />
+
 
 Real-World Relevance
 
